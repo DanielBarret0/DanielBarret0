@@ -15,7 +15,7 @@
   * Tenho 22 anos sou de Aracaju/Sergipe. Estudo e desenvolvo na área <strong>Frontend.</strong> E venho a cada dia estudando e praticando cada vez mais para melhorar meu código e sua semântica afim de quando trrabalhar em equipe espero meu que código esteja legível para todos.
   
   * Estudando e Praticando: HTML e CSS com páginas responsivas.
-  * Proximos passos: Estudar JavaScript.
+  * Proximo passo: Estudar JavaScript.
   * O que espero aprender em 6 messes: Fazer páginas completas usando HTML, CSS e JavaScript.
   
   # Linguagens
