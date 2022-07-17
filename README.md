@@ -10,13 +10,17 @@
   
   # Sobre mim
   
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
+  
+  * Tenho 22 anos sou de Aracaju/Sergipe. Estudo e desenvolvo na área <strong>Frontend.</strong> E venho a cada dia estudando e praticando cada vez mais para melhorar meu código e sua semântica afim de quando trrabalhar em equipe espero meu que código esteja legível para todos.
+  
   * Estudando e Praticando: HTML e CSS com paginas responsivas.
   * Proximos passos: Estudar JavaScript.
-  * O que espero aprender em 6 messes: Fazer paginas completas usando HTML, CSS e JavaScript.
+  * O que espero aprender em 6 messes: Fazer páginas completas usando HTML, CSS e JavaScript.
   
   # Linguagens
   
-   <div style="display: inline_block"><br>
+   <div style="display: block"><br>
 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
