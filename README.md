@@ -5,8 +5,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarret0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+  
   # Sobre mim
   
   * Estudando e Praticando: HTML e CSS com paginas responsivas.
   * Proximos passos: Estudar JavaScript.
   * O que espero aprender em 6 messes: Fazer paginas completas usando HTML, CSS e JavaScript.
+
+  # Contato
+  
+  <div> 
+
+  <a href="https://instagram.com/DanielBarret0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:josedanielbarreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/daniel-barreto-1b763216a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
