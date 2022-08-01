@@ -12,7 +12,7 @@
   
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
   
-  * Tenho 22 anos sou de Aracaju/Sergipe. Estudo e desenvolvo na área <strong>Frontend.</strong> E venho a cada dia estudando e praticando cada vez mais para melhorar meu código e sua semântica afim de quando trrabalhar em equipe espero meu que código esteja legível para todos.
+  * Tenho 22 anos sou de Aracaju/Sergipe. Estudo e desenvolvo na área Frontend. E venho a cada dia estudando e praticando cada vez mais para melhorar o meu código e a sua semântica afim de quando trabalhar em equipa espero que o meu código esteja legível para todos.
   
   * Estudando e Praticando: HTML e CSS com páginas responsivas.
   * Proximo passo: Estudar JavaScript.
