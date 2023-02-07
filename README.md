@@ -7,7 +7,11 @@
   
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
   
-  * Tenho 23 anos sou de Aracaju/Sergipe. Estudo e desenvolvo na área Frontend. E venho a cada dia estudando e praticando cada vez mais para melhorar o meu código e a sua semântica afim de quando trabalhar em equipa espero que o meu código esteja legível para todos.
+  * Olá tenho 23 anos, estudo e trabalho como desenvolvedor front-end desde 2022, e me encontrei na área de tecnologia no sétimo período do meu curso de licenciatura de matemática por alguns amigos do departamento de computação, desde então sigo estudando e fazendo alguns projetos na área e acabei me apaixonado pelo desenvolvimento front-end e ser um bom desenvolvedor tornou-se o meu objetivo profissional.
+
+Algumas das minhas habilidades no front-end:
+
+Experiencia em: HTML, CSS, JavaScript, Git, Github, Desenvolvimento no Método BEM, Responsividade web, Desenvolvimento Web.
   
   
   # Linguagens
