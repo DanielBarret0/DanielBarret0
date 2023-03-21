@@ -7,11 +7,22 @@
   
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
   
-  * Olá tenho 23 anos, estudo e trabalho como desenvolvedor front-end desde 2022, e me encontrei na área de tecnologia no sétimo período do meu curso de licenciatura de matemática por alguns amigos do departamento de computação, desde então sigo estudando e fazendo alguns projetos na área e acabei me apaixonado pelo desenvolvimento front-end e ser um bom desenvolvedor tornou-se o meu objetivo profissional.
+  * Olá e bem-vindo(a) ao meu perfil! Meu nome é Daniel e tenho 23 anos. Moro na cidade de Aracaju, Sergipe, e sou um desenvolvedor front-end dedicado e motivado. Com conhecimento técnico em:
 
-Algumas das minhas habilidades no front-end:
+- Desenvolvimento front-end, incluindo HTML, CSS e JavaScript.
 
-Experiencia em: HTML, CSS, JavaScript, Git, Github, Desenvolvimento no Método BEM, Responsividade web, Desenvolvimento Web.
+- Utilização de Git e Github para controle de versionamento e colaboração em projetos.
+
+- Cursando uma graduação tecnóloga em Análise de Sistemas e Desenvolvimento de Software, com foco em soluções técnicas e funcionais de alta qualidade.
+
+- Habilidade em resolução de problemas e abordagem analítica com
+Formação em matemática (Cursei 7 períodos na Universidade Federal de Sergipe), contribuindo para minha abordagem analítica e habilidade em lidar com dados.
+
+- Excelentes habilidades interpessoais, o que me permite trabalhar bem em equipe e comunicar ideias de maneira clara e concisa.
+
+Estou sempre buscando novas tecnologias e ferramentas para melhorar minhas habilidades e estar atualizado com as últimas tendências em desenvolvimento web. Além de minhas habilidades técnicas, também possuo habilidades interpessoais, o que me permite trabalhar bem em equipe e comunicar ideias de maneira clara e concisa.
+
+Estou comprometido em me tornar um desenvolvedor front-end de classe mundial e estou sempre aberto a novas oportunidades para expandir meu conhecimento e crescer na minha carreira. Sinta-se à vontade para entrar em contato comigo para discutir possíveis oportunidades de colaboração.
   
   
   # Linguagens
