@@ -1,4 +1,4 @@
-## <p align="center"> Oi meu nome é Daniel Barreto! Sou estudante de promgração na area de Front end. </p>
+## <p align="center"> Oi meu nome é Daniel Barreto! Sou um desenvolvedor Front end.</p>
 <!-- ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBarret0&show_icons=true&theme=radical) -->
  ![Snake animation](https://github.com/DanielBarret0/DanielBarret0/blob/output/github-contribution-grid-snake.svg)
  
