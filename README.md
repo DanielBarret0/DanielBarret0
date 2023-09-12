@@ -59,9 +59,7 @@ Estou comprometido em me tornar um desenvolvedor front-end de classe mundial e e
    </a>
  
  #
-   
-   ![Snake animation](https://github.com/DanielBarret0/DanielBarret0/blob/output/github-contribution-grid-snake.svg)
- 
+  
    </div>
    
  #
