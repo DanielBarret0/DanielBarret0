@@ -4,22 +4,26 @@
   
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
   
-  * Olá e bem-vindo(a) ao meu perfil! Meu nome é Daniel e tenho 23 anos. Moro na cidade de Aracaju, Sergipe, e sou um desenvolvedor front-end dedicado e motivado. Com conhecimento técnico em:
+  * 👋 Olá, sou Daniel Barreto, tenho 23 anos e sou de Aracaju, Sergipe. 
 
-- Desenvolvimento front-end, incluindo HTML, CSS e JavaScript.
+🚀 Desenvolvedor em formação apaixonado por tecnologia, com conhecimentos sólidos em:
 
-- Utilização de Git e Github para controle de versionamento e colaboração em projetos.
+- 💻 HTML;
+- 🎨 CSS;
+- 💡 JavaScript;
+- 📊 SQL;
+- 🐍 Python;
+- 🔗 Git;
+- 🌐 GitHub;
+- 🅱️ Bootstrap 5.
 
-- Cursando uma graduação tecnóloga em Análise de Sistemas e Desenvolvimento de Software, com foco em soluções técnicas e funcionais de alta qualidade.
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Gran, com previsão de conclusão em 2025. Estou no segundo período.
 
-- Habilidade em resolução de problemas e abordagem analítica com
-Formação em matemática (Cursei 7 períodos na Universidade Federal de Sergipe), contribuindo para minha abordagem analítica e habilidade em lidar com dados.
+Também matriculado na Escola de tecnologia Alura, onde estou aprimorando minhas habilidades para me tornar um desenvolvedor full stack. 
 
-- Excelentes habilidades interpessoais, o que me permite trabalhar bem em equipe e comunicar ideias de maneira clara e concisa.
+Cursei até o 7º período da faculdade de Licenciatura em Matemática, o que me proporcionou uma base sólida em resolução de problemas e raciocínio lógico.
 
-Estou sempre buscando novas tecnologias e ferramentas para melhorar minhas habilidades e estar atualizado com as últimas tendências em desenvolvimento web. Além de minhas habilidades técnicas, também possuo habilidades interpessoais, o que me permite trabalhar bem em equipe e comunicar ideias de maneira clara e concisa.
-
-Estou comprometido em me tornar um desenvolvedor front-end de classe mundial e estou sempre aberto a novas oportunidades para expandir meu conhecimento e crescer na minha carreira. Sinta-se à vontade para entrar em contato comigo para discutir possíveis oportunidades de colaboração.
+Tenho habilidades em comunicação, atenção aos detalhes, empatia e colaboração em equipe. Estou comprometido em construir uma carreira sólida no desenvolvimento de software, ansioso para aprender e crescer com equipes talentosas em busca de oportunidades de emprego que me permitam contribuir com minha paixão pela programação.
   
   
   # Tecnologias
