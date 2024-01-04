@@ -4,7 +4,7 @@
   
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
   
-  * 👋 Olá, sou Daniel Barreto, tenho 23 anos e sou de Aracaju, Sergipe. 
+  * 👋 Olá, sou Daniel Barreto, tenho 24 anos e sou de Aracaju, Sergipe. 
 
 🚀 Desenvolvedor em formação apaixonado por tecnologia, com conhecimentos sólidos em:
 
