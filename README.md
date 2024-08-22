@@ -4,36 +4,42 @@
   
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
   
-  * 👋 Olá, sou Daniel Barreto, tenho 24 anos e sou de Aracaju, Sergipe. 
+  * 🚀 Desenvolvedor Front-End | Freelancer 
 
-🚀 Desenvolvedor em formação apaixonado por tecnologia, com conhecimentos sólidos em:
+Sou um desenvolvedor front-end com 2 anos de experiência como freelancer, criando interfaces responsivas e funcionais. Estou finalizando meu curso de Análise e Desenvolvimento de Sistemas, fortalecendo minha expertise em tecnologias web e metodologias ágeis.
 
-- 💻 HTML;
-- 🎨 CSS;
-- 💡 JavaScript;
-- 📊 SQL;
-- 🐍 Python;
-- 🔗 Git;
-- 🌐 GitHub;
-- 🅱️ Bootstrap 5.
+💡 Principais Competências:
 
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na faculdade Gran, com previsão de conclusão em 2025. Estou no segundo período.
+React | Javascript | SASS | CSS | HTML | Node.js | Bootstrap | Tailwind | WordPress | MySQL | Python.
+
+Estou em constante busca por novos desafios e oportunidades para aplicar minhas habilidades. Vamos nos conectar e discutir como posso ajudar a impulsionar seu próximo projeto!
 
 Também matriculado na Escola de tecnologia Alura, onde estou aprimorando minhas habilidades para me tornar um desenvolvedor full stack. 
-
-Cursei até o 7º período da faculdade de Licenciatura em Matemática, o que me proporcionou uma base sólida em resolução de problemas e raciocínio lógico.
-
-Tenho habilidades em comunicação, atenção aos detalhes, empatia e colaboração em equipe. Estou comprometido em construir uma carreira sólida no desenvolvimento de software, ansioso para aprender e crescer com equipes talentosas em busca de oportunidades de emprego que me permitam contribuir com minha paixão pela programação.
   
   
   # Tecnologias
   
-  <div style="display: block"><br>
+  <div style="display: inline-block"><br>
+
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" > React
+
+  <img align="center" alt="JavaScrpt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
+  
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> Node.js
    
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" > HTML 5
+  
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3
-  <img align="center" alt="JavaScrpt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
+  
+  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> SASS
+  
   <img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> Bootstrap
+  
+  <img align="center" alt=" Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"> Wordpress
+  
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> Tailwind
+  
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> Python
 
   </div>
 
@@ -45,6 +51,7 @@ Tenho habilidades em comunicação, atenção aos detalhes, empatia e colaboraç
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  Visual Studio Code
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> Figma
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">  Trello
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> Git
 
   </div>
   
@@ -75,12 +82,8 @@ Tenho habilidades em comunicação, atenção aos detalhes, empatia e colaboraç
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white=mailto:josedanielbarreto@gmail.com"/ target="_blank"></a>
 
   <a href="https://www.linkedin.com/in/daniel-barreto-1b763216a/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=&logoColor=white=https://www.linkedin.com/in/daniel-barreto-developer/" / target="_blank"></a>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" / target="_blank"></a>
 
-  <a href="https://www.instagram.com/daniel.barret0/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=&logoColor=white=https://www.instagram.com/daniel.barret0/"/ target="_blank"></a>
- 
- 
   <a href="https://cursos.alura.com.br/vitrinedev/danielbarreto" alt="VitrineDev" target="_blank">
   <img src="https://img.shields.io/badge/VitrineDev-100000?style=for-the-badge&logo=&logoColor=white=https://cursos.alura.com.br/vitrinedev/danielbarreto"/ target="_blank"></a>
 </p>  
