@@ -11,7 +11,7 @@ Meu código roda em produção para **mais de 50 mil crianças em mais de 100 es
 - 📊 **Plataforma contábil**: SaaS de contabilidade e gestão financeira, em React, TypeScript, NestJS e PostgreSQL.
 - 🖨️ **Orçaí** (projeto pessoal): SaaS para lojas de impressão 3D. O cliente envia o STL, recebe o preço na hora (fatiamento real num worker em Docker) e paga por Pix.
 
-> Os projetos da empresa são privados. O que dá para mostrar está no meu [portfólio](COLE_AQUI_O_LINK_DO_PORTFOLIO).
+> Os projetos da empresa são privados. O que dá para mostrar está no meu [portfólio](https://portifoliodaniel.vercel.app/).
 
 ### Como trabalho
 
@@ -33,7 +33,7 @@ Análise e Desenvolvimento de Sistemas (Gran Faculdade, 2025). Pós-graduações
 
 ### Contato
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF8F3F?style=for-the-badge&logoColor=white)](COLE_AQUI_O_LINK_DO_PORTFOLIO)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF8F3F?style=for-the-badge&logoColor=white)](https://portifoliodaniel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barreto-developer)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josedanielbarreto@gmail.com)
 
@@ -51,7 +51,7 @@ My code runs in production for **50,000+ children in over 100 schools** and for 
 - 📊 **Accounting platform**: accounting and financial management SaaS in React, TypeScript, NestJS and PostgreSQL.
 - 🖨️ **Orçaí** (side project): SaaS for 3D printing shops. Customers upload an STL, get an instant price (real slicing in a Docker worker) and pay via Pix.
 
-Company projects are private. What I can show is on my [portfolio](COLE_AQUI_O_LINK_DO_PORTFOLIO).
+Company projects are private. What I can show is on my [portfolio](https://portifoliodaniel.vercel.app/).
 
 B.Tech in Systems Analysis and Development (2025), currently in graduate programs in Software Development and Testing, and Full Stack Development and Cloud Computing.
 
