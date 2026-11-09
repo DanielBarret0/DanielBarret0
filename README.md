@@ -1,85 +1,58 @@
-## <p align="center"> Oi meu nome é Daniel Barreto! Sou um desenvolvedor Front end.</p>
+# Oi, eu sou o Daniel Barreto 👋
 
-  # Sobre mim
-  
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px"         width="400px" align="right" alt="Computador DanielBarreto">
-  
-  * 🚀 Desenvolvedor Front-End | Freelancer 
+**Desenvolvedor full stack.** Construo produtos inteiros, da API ao app na loja: backend, painéis web, apps iOS e Android, nuvem e jogos em Unity.
 
-Sou um desenvolvedor front-end com 2 anos de experiência como freelancer, criando interfaces responsivas e funcionais. Estou finalizando meu curso de Análise e Desenvolvimento de Sistemas, fortalecendo minha expertise em tecnologias web e metodologias ágeis.
+Meu código roda em produção para **mais de 50 mil crianças em mais de 100 escolas** e para instituições financeiras.
 
-💡 Principais Competências:
+### No que trabalho hoje
 
-React | Javascript | SASS | CSS | HTML | Node.js | Bootstrap | Tailwind | WordPress | MySQL | Python.
+- 🎮 **Littera**: plataforma educacional com 12 jogos 3D em Unity/C#, API em NestJS e PostgreSQL e um painel em React que transforma o desempenho de cada criança em relatórios por competência. Sou o principal contribuidor do repositório de jogos (860+ commits) e mantenho 30 fps estáveis no tablet de referência.
+- 🛡️ **VerificaAI**: app antifraude que analisa boletos, imagens e mensagens com IA e OCR, com um painel separado para cada instituição financeira. Cuido de toda a parte de iOS do app em React Native e criei a ferramenta em Electron que gera a versão white-label de cada instituição.
+- 📊 **Plataforma contábil**: SaaS de contabilidade e gestão financeira, em React, TypeScript, NestJS e PostgreSQL.
+- 🖨️ **Orçaí** (projeto pessoal): SaaS para lojas de impressão 3D. O cliente envia o STL, recebe o preço na hora (fatiamento real num worker em Docker) e paga por Pix.
 
-Estou em constante busca por novos desafios e oportunidades para aplicar minhas habilidades. Vamos nos conectar e discutir como posso ajudar a impulsionar seu próximo projeto!
+> Os projetos da empresa são privados. O que dá para mostrar está no meu [portfólio](COLE_AQUI_O_LINK_DO_PORTFOLIO).
 
-Também matriculado na Escola de tecnologia Alura, onde estou aprimorando minhas habilidades para me tornar um desenvolvedor full stack. 
-  
-  
-  # Tecnologias
-  
-  <div style="display: inline-block"><br>
+### Como trabalho
 
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" > React
-  <img align="center" alt="JavaScrpt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> Node.js
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" > HTML 5
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3
-  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> SASS
-  <img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> Bootstrap
-  <img align="center" alt=" Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"> Wordpress
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> Tailwind
-  
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> Python
+Especificação antes do código, testes automatizados, dados sensíveis cifrados (LGPD) e cada correção validada contra dados reais antes do deploy.
 
-  </div>
+### Stack
 
- 
-   # Ferramentas
-  
-   <div style="display: block"><br>
-    
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  Visual Studio Code
-  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> Figma
-  <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">  Trello
-  <img align="center" alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"> Notion
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> Git
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,tailwind,unity,cs,kotlin&perline=10" alt="TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, Tailwind CSS, Unity, C#, Kotlin" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,aws,supabase,electron,githubactions,jest,vitest,git&perline=10" alt="Docker, Google Cloud, AWS, Supabase, Electron, GitHub Actions, Jest, Vitest, Git" />
+</p>
 
-  </div>
-  
-  #
-  
-   # 📈 Github Statistics
-   
-   <div style="display: block"><br>
-   
-   <a href="https://github.com/Gurupreet">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarret0&theme=radical&hide_langs_below=1" />
-   </a>
+Também: React Native e Expo, Fastify, Drizzle ORM, integração com LLMs e OCR, Wear OS.
 
-   <a href="https://github.com/Gurupreet">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielBarret0&theme=radical&show_icons=true" alt="**Daniel Barreto** github stats"/>
-   </a>
- 
- #
-  
-   </div>
-   
- #
+### Formação
 
-  # Contato
-  
- <p align="left">
-  <a href="mailto:josedanielbarreto@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=&logoColor=white=mailto:josedanielbarreto@gmail.com"/ target="_blank"></a>
+Análise e Desenvolvimento de Sistemas (Gran Faculdade, 2025). Pós-graduações em andamento em Desenvolvimento e Testes de Software e em Desenvolvimento Full Stack e Cloud Computing.
 
-  <a href="https://www.linkedin.com/in/daniel-barreto-1b763216a/" alt="Linkedin" target="_blank">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" / target="_blank"></a>
+### Contato
 
-  <a href="https://cursos.alura.com.br/vitrinedev/danielbarreto" alt="VitrineDev" target="_blank">
-  <img src="https://img.shields.io/badge/VitrineDev-100000?style=for-the-badge&logo=&logoColor=white=https://cursos.alura.com.br/vitrinedev/danielbarreto"/ target="_blank"></a>
-</p>  
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF8F3F?style=for-the-badge&logoColor=white)](COLE_AQUI_O_LINK_DO_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barreto-developer)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josedanielbarreto@gmail.com)
 
+<details>
+<summary>🇺🇸 <b>English</b></summary>
 
-  
+<br />
+
+**Full stack developer.** I build whole products, from the API to the app in the store: back end, web dashboards, iOS and Android apps, cloud and Unity games.
+
+My code runs in production for **50,000+ children in over 100 schools** and for financial institutions.
+
+- 🎮 **Littera**: an education platform with 12 3D games in Unity/C#, a NestJS and PostgreSQL API and a React dashboard that turns each child's performance into skill-by-skill reports. Lead contributor to the games repository (860+ commits), holding a stable 30 fps on the reference tablet.
+- 🛡️ **VerificaAI**: an anti-fraud app that checks payment slips, images and messages with AI and OCR, with a separate dashboard per financial institution. I own the iOS side of the React Native app and built the Electron tool that generates each institution's white-label version.
+- 📊 **Accounting platform**: accounting and financial management SaaS in React, TypeScript, NestJS and PostgreSQL.
+- 🖨️ **Orçaí** (side project): SaaS for 3D printing shops. Customers upload an STL, get an instant price (real slicing in a Docker worker) and pay via Pix.
+
+Company projects are private. What I can show is on my [portfolio](COLE_AQUI_O_LINK_DO_PORTFOLIO).
+
+B.Tech in Systems Analysis and Development (2025), currently in graduate programs in Software Development and Testing, and Full Stack Development and Cloud Computing.
+
+</details>
